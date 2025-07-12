@@ -6,12 +6,13 @@ Features include showing balance, depositing, and withdrawing funds.
 ## How to Run
 
 1. Clone the repository:
-bash '''
+``` bash 
 git clone https://github.com/kaybe005/cpp-banking-app.git
-'''
+```
 3. Build and run using your C++ compiler:
+``` bash
 cd cpp-banking-app g++ HelloWorld.cpp -o banking-app ./banking-app
-
+```
 ## Features
 
 - Show current balance
